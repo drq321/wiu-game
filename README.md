@@ -5,7 +5,7 @@ Large Language Models (LLMs) are powerful AI agents but struggle with open decis
 
 ![image](https://github.com/drq321/wiu-game/blob/main/mptt.jpg)
 
-\textbf{Improvement with MPTT.} MPTT is significantly improved in 3 areas. Include (a) Hidden private words, (b) Broader descriptive content, and (c) More accurate trust relationships.
+**Improvement with MPTT.** MPTT is significantly improved in 3 areas. Include (a) Hidden private words, (b) Broader descriptive content, and (c) More accurate trust relationships.
 ![image](https://github.com/drq321/wiu-game/blob/main/improve.jpg)
 
 We explore advanced tactics used by AI agents in the WIU game and their impact on game dynamics. Conscious Guess: Like humans, AI agents attempt to infer others' difference and adjusting strategies. Vote for the Teammate: AI undercovers may strategically vote against a fellow undercover with more exposure, creating confusion and gaining civilian trust. While this tactic can mislead opponents, it also increases the challenge for the AI team, requiring strong acumen and adaptability.
