@@ -5,4 +5,6 @@ Large Language Models (LLMs) are powerful AI agents but struggle with open decis
 
 ![image](https://github.com/drq321/wiu-game/blob/main/mptt.jpg)
 
+Demo:
+[![Watch the video](https://github.com/drq321/wiu-game/blob/main/mptt.jpg)](https://drive.google.com/file/d/1_Mr2-cf6KWHA9sEssIiUcdaknvN-R8u5/view?usp=sharing)
 
